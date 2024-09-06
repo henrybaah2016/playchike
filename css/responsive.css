@@ -84,7 +84,7 @@
     min-height: 530px;
 }
       .footer-bg {
-    background: transparent linear-gradient(90deg, #7D4196 0%, #FF3494 100%) 0% 0% no-repeat padding-box !important;
+    background: transparent linear-gradient(90deg, #7D4196 0%, #2b9f5a 100%) 0% 0% no-repeat padding-box !important;
 }
       .video-wrap h2 {
     margin-top: 0;
@@ -298,7 +298,7 @@ padding-bottom: 50px !important;
     width: 100%;
 }
     .footer-bg {
-    background: transparent linear-gradient(90deg, #7D4196 0%, #FF3494 100%) 0% 0% no-repeat padding-box !important;
+    background: transparent linear-gradient(90deg, #7D4196 0%, #2b9f5a 100%) 0% 0% no-repeat padding-box !important;
 }
       .video-wrap h2 {
     margin-top: 0;
@@ -431,7 +431,7 @@ padding-bottom: 50px !important;
 	margin-left: 0;
 }
 .main-menu ul li.active a, .main-menu ul li:hover a {
-	color: #ff3494;
+	color: #2b9f5a;
 }
 .main-menu  ul > li > a::before {content: none;}
 .main-menu ul li a {
@@ -522,7 +522,7 @@ padding-bottom: 50px !important;
         margin-bottom: 30px;
     }
      .footer-bg {
-    background: transparent linear-gradient(90deg, #7D4196 0%, #FF3494 100%) 0% 0% no-repeat padding-box !important;
+    background: transparent linear-gradient(90deg, #7D4196 0%, #2b9f5a 100%) 0% 0% no-repeat padding-box !important;
 }
       .video-wrap h2 {
     margin-top: 0;
