@@ -1537,7 +1537,7 @@ margin-bottom: 0;
     position: absolute;
     width: 300px;
     height: 100%;
-    background: url(../img/shape/header-sape8.png);
+    background: url(../img/shape/header-2a1.png);
     top: 0;
 }
 .single-testimonial {
@@ -1609,7 +1609,7 @@ margin-bottom: 0;
 }
 .ta-info span {
 	font-size: 14px;
-    color: #7D4196;
+    color: #2b9f5ad9;
 }
 .testi-author {
 	overflow: hidden;
@@ -1636,7 +1636,7 @@ margin-bottom: 0;
 	width: 94%;
 }
 .testimonial-active i {
-    color: #f63594;
+    color: #2b9f5a;
     right: 40px;
 }
 .testimonial-active .slick-next {
