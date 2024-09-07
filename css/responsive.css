@@ -402,6 +402,8 @@ padding-bottom: 50px !important;
 }
 .menu-area {
 	padding: 20px 0;
+	background:  transparent linear-gradient(90deg, #241247 0%, #67358E 100%) 0% 0% no-repeat padding-box;
+
 }
 
 .responsive {
@@ -675,6 +677,8 @@ padding-bottom: 50px !important;
     padding: 10px 25px;
 }
 	.admin-bar .menu-area {
+		background:  transparent linear-gradient(90deg, #241247 0%, #67358E 100%) 0% 0% no-repeat padding-box;
+
     margin-top: 0;
 }
 .admin-bar .sticky-menu {
@@ -906,6 +910,7 @@ border-bottom: none;
 }
 .menu-area {
 	padding: 20px 0;
+	background:  transparent linear-gradient(90deg, #241247 0%, #67358E 100%) 0% 0% no-repeat padding-box;
 }
 .responsive {
 	float: right;
