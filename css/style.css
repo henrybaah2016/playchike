@@ -199,8 +199,8 @@ label {
 
 .btn {
 	-moz-user-select: none;
-	background: transparent linear-gradient(90deg, #7D4196 0%, #2b9f5a 100%) 0% 0% no-repeat padding-box;
-    box-shadow: 3px 4px 25px #C63A9580;
+	background:#2b9f5a;
+    box-shadow: 3px 4px 25px #2b9f5960;
 	border: none;
 	border-radius: 50px;
 	color: #fff;
@@ -2798,7 +2798,7 @@ margin-top: 15px;
 	width: 100%;
 	border: none;
 	background: #fff;
-	padding: 10px 20px;
+	padding: 20px 20px;
 	transition: .3s;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     box-shadow: 3px 4px 15px #0000001A;
@@ -2888,6 +2888,7 @@ margin-top: 15px;
 	padding-bottom: 25px;
 	position: relative;
 }
+
 .f-widget-title h5::before {
 	content: "";
 	position: absolute;
@@ -4366,3 +4367,15 @@ height: auto !important;
 	opacity: 1;
 }
 .slick-slide{outline: none;}
+
+.header-area{
+	background: linear-gradient(to right, rgb(36, 18, 71), rgb(103, 53, 142)) !important;
+}
+
+.accountLogin{
+	color: #000;
+	margin-right: 20px;
+}
+.sign_up{
+	color: #2b9f5a;
+}
