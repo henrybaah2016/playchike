@@ -1299,23 +1299,23 @@ padding: 10px 30px;
     position: relative;
 }
 .choose-btn a .icon {
-    padding: 0 20px 0 0;
+    padding: 0 10px 0 0;
     line-height: 50px;
     z-index: 99;
 }
 .choose-btn a .text {
     z-index: 99;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .choose-btn a .text strong{
-    font-size: 22px;
+    font-size: 20;
 margin-top: -5px;
 display: block;
     font-weight: 500;
 }
 
-.choose-btn a.g-btn{box-shadow: none;width: 262px;}
+.choose-btn a.g-btn{box-shadow: none;width: 220px;}
 .g-btn::before {
     content: "";
     position: absolute;
@@ -4378,4 +4378,7 @@ height: auto !important;
 }
 .sign_up{
 	color: #2b9f5a;
+}
+.app-btn{
+	display: flex;
 }
