@@ -212,11 +212,11 @@ form
     border-radius: 9px;
     background-color: rgb(255, 255, 255);
     box-shadow: 0px 2px 21px 0px rgba(0, 0, 0, 0.03);
-    font-size: 18px;
-    font-family: "Sen";
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
     color: var(--text-color);
-    font-weight: 800;
-    text-transform: uppercase;
+    font-weight: 500;
+    text-transform: capitalize;
 }
   
 .next-prev .next, .next-prev .apply
